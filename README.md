@@ -1,10 +1,19 @@
+##
 
+<div style ="display: inline_block"><br>
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  
+</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-joaos.laurino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zelindroarthur.com)](mailto:joaos.laurino@gmail.com)
+##
 
-## Languages:
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<div> 
+  <a href = "mailto:joaos.laurino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
+ 
