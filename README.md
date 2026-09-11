@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Jo%C3%A3o%20Vitor%20Laurino&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Software%20Engineer&descSize=20&descAlignY=57" alt="">
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Fullstack+Software+Engineer;B.Sc.+Computer+Engineering+%E2%80%94+FURG" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&height=45&lines=Fullstack+Software+Engineer;B.Sc.+Computer+Engineering+%E2%80%94+FURG" alt="Fullstack Software Engineer — B.Sc. Computer Engineering, FURG">
 </p>
 
 <p align="center">
@@ -47,15 +45,19 @@
 <h3 align="center">GitHub</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoslaurino&theme=github#gh-light-mode-only" alt="Profile details" width="80%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoslaurino&theme=github_dark#gh-dark-mode-only" alt="Profile details" width="80%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoslaurino&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoslaurino&theme=github" alt="GitHub profile summary" width="80%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoslaurino&theme=github#gh-light-mode-only" alt="Repos per language" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoslaurino&theme=github#gh-light-mode-only" alt="Most commit language" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoslaurino&theme=github_dark#gh-dark-mode-only" alt="Repos per language" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoslaurino&theme=github_dark#gh-dark-mode-only" alt="Most commit language" height="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoslaurino&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoslaurino&theme=github" alt="Top languages by repo" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoslaurino&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoslaurino&theme=github" alt="Top languages by commit" height="200">
+  </picture>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="">
