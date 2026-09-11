@@ -1,6 +1,6 @@
 # João Vitor Laurino
 
-Fullstack Software Engineer, with a B.Sc. in Computer Engineering from the Federal University of Rio Grande (FURG). I build web applications end to end and I'm always up for a new problem.
+Fullstack Software Engineer with a B.Sc. in Computer Engineering from the Federal University of Rio Grande (FURG).
 
 ## 🛠️ What I build with
 
