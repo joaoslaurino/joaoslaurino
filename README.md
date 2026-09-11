@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&height=45&lines=Fullstack+Software+Engineer;B.Sc.+Computer+Engineering+%E2%80%94+FURG" alt="Fullstack Software Engineer — B.Sc. Computer Engineering, FURG">
-</p>
+# João Vitor Laurino
+
+Fullstack Software Engineer, with a B.Sc. in Computer Engineering from the Federal University of Rio Grande (FURG). I build web applications end to end and I'm always up for a new problem.
 
 ## 🛠️ What I build with
 
